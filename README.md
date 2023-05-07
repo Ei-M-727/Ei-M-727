@@ -18,8 +18,19 @@ Here are some ideas to get you started:
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mei-Shi)
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 
+```text
+JSON         1 hr 21 mins    ██████████▒░░░░░░░░░░░░░░   40.75 %
+JavaScript   53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
+TypeScript   53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.80 %
+Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+```
+
+<!--END_SECTION:waka-->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
 
