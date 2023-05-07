@@ -11,7 +11,9 @@
 - ⚡ Fun fact: ...
 
 <h2>Things I use on a daily basis</h2>
+
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
+
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vue)](https://github.com/harish-sethuraman/readme-components)
 
 <h2>汇总🔆</h2>
