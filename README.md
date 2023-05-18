@@ -1,17 +1,15 @@
 
-<h2>Hi  I'am Mei-Shi🦁</h2>
+<h2>Hi  I'am Mei Shi🦁</h2>
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on Vue
-- 🌱 I’m currently learning Python and Node.Js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 是一名即将大三的学生
+- 🌱 想在暑期找一份实习工作
+- 👯 专注于前端方向
+- 🤔 在大三的时候计划学习关于python web的内容
+- 💬 爱好看小说、动漫、健身
+- 📫 2789191478@qq.com
 
 
 **Languages and Frameworks🦁**
