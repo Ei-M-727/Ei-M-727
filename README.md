@@ -4,10 +4,10 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 是一名即将大三的学生
-- 🌱 想在暑期找一份实习工作
+- 🔭 是一名大三的学生
+- 🌱 ...
 - 👯 专注于前端方向
-- 🤔 在大三的时候计划学习关于python web的内容
+- 🤔 ...
 - 💬 爱好看小说、动漫、健身
 - 📫 2789191478@qq.com
 
