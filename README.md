@@ -4,13 +4,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 是一名大三的学生
-- 🌱 ...
-- 👯 专注于前端方向
-- 🤔 ...
-- 💬 爱好看小说、动漫、健身
-- 📫 2789191478@qq.com
-
 
 **Languages and Frameworks🦁**
 
